@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Соревнования on Burlin Chess</title>
-    <link>/competitions/index.xml</link>
+    <link>https://burlinchess.github.io/burlinchess/competitions/index.xml</link>
     <description>Recent content in Соревнования on Burlin Chess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://burlinchess.github.io/burlinchess/competitions/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
